@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Blog Dewi On Github</a>
-                    <a href="https://laracasts.com">Github Page Path</a>
+                    <a href="https://github.com/dewisilaen/laravel_dewi.git">Script di Github</a>
                     <a href="https://laravel-news.com">Create Page</a>
                     <a href="https://blog.laravel.com">Read Page</a>
                     <a href="https://nova.laravel.com">Edit Page</a>
