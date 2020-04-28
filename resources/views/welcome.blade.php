@@ -85,13 +85,12 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Blog Dewi On Github</a>
-                    <a href="https://github.com/dewisilaen/laravel_dewi.git">Script di Github</a>
-                    <a href="https://localhost:8000/dewis">Create Page</a>
-                    <a href="https://localhost:8000/dewis">Read Page</a>
-                    <a href="https://localhost:8000/dewis">Edit Page</a>
-                    <a href="https://localhost:8000/dewis">Delete Page</a>
-                    <a href="https://github.com/laravel/laravel">About Dewi</a>
+                    <a href="https://github.com/dewisilaen/laravel_dewi.git">Project di Github</a>
+                    <a href="/dewis">Create Page</a>
+                    <a href="/dewis">Read Page</a>
+                    <a href="/dewis">Edit Page</a>
+                    <a href="/dewis">Delete Page</a>
+                    <a href="https://github.com/dewisilaen/laravel_dewi/blob/master/script.md">Script Dokument</a>
                 </div>
             </div>
         </div>
